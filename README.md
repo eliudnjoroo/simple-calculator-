@@ -1,2 +1,1 @@
-# uuuuu
- jujj
+simple console calculator 
